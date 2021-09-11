@@ -16,6 +16,10 @@ usecase of python:
 -big data
 -analytics
 -pipelineing
-start with string objects and collections
+
+9/11/21
+string objects and collections
 Variables and types 
+index extraction/slicing
+lists, tuples
 
