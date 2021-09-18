@@ -43,3 +43,14 @@ expected answer
 5->2
 5->2
 8->2
+
+
+09/18/21
+while loop
+while-else-break-conitnue-pass
+len of string
+find,count,split function
+upper,lower,swap,title cases
+islower/upper/alphnum/num/alpha functions
+append/pop/insert/extend(unpack the list and add to the list)
+
