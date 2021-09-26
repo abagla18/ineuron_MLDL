@@ -61,3 +61,11 @@ dictionary
 value can be of any type tuple,list,strings etc
 keys cannot be special characters,list,set but can be tuples,"_"can be used because it is like a placeholder
 keys cannot be duplicated it will only hold a unique value
+
+9/24/21
+feedback session
+
+9/25/21
+functions
+adding docstrings to a new function
+args and kwargs
