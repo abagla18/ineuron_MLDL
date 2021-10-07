@@ -69,3 +69,7 @@ feedback session
 functions
 adding docstrings to a new function
 args and kwargs
+
+
+10/3/21
+error and exception handeling
