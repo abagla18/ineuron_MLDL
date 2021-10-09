@@ -73,3 +73,15 @@ args and kwargs
 
 10/3/21
 error and exception handeling
+raising or making an excception
+
+new workfile_2
+
+10/9/21
+Pandas
+reading file and loading into dataframe
+-csv
+-excel
+-html
+saving into a csv
+
