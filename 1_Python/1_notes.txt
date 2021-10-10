@@ -85,3 +85,13 @@ reading file and loading into dataframe
 -html
 saving into a csv
 
+10/10/21
+Pandas
+sort data types
+iloc & loc 
+add & drop columns and rows
+
+how to read :
+-word
+-parque
+-pdf
