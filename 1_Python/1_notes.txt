@@ -110,3 +110,7 @@ create document and multiple document
 finding details in document
 apply filter to the document
 
+10/30/21
+connecting pyhton to mysql
+loading data
+deleting ,reading dataset
