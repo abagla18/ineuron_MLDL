@@ -96,3 +96,17 @@ how to read :
 -parque
 -pdf
 
+
+10/23/21
+installations
+
+10/24/21
+mongodb cloud cluster forming
+installing poymongo librar(filename: mongodb trial)
+crud operations
+create databases
+create collections
+create document and multiple document
+finding details in document
+apply filter to the document
+
