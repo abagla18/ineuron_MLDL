@@ -114,3 +114,12 @@ apply filter to the document
 connecting pyhton to mysql
 loading data
 deleting ,reading dataset
+
+10/31/21
+pandas 
+concatination
+merge
+join
+lambda function
+map,reduce,filter
+
