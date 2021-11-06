@@ -123,3 +123,7 @@ join
 lambda function
 map,reduce,filter
 
+11/6/21
+numpy
+11/6/21
+oops introduction
