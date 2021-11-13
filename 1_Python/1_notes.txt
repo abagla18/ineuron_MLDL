@@ -127,3 +127,12 @@ map,reduce,filter
 numpy
 11/6/21
 oops introduction
+
+11/7/21
+canclled
+
+11/13/21
+oops
+d.c = public Variables
+d.__b = private Variables
+d._a = protected variables
