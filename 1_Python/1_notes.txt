@@ -16,13 +16,13 @@ usecase of python:
 -big data
 -analytics
 -pipelineing
-
+-**************************************
 9/11/21
 string objects and collections
 Variables and types 
 index extraction/slicing
 range,lists, tuples
-
+-**************************************
 9/12/21
 flow control:
 -If-elif-else statements
@@ -43,8 +43,7 @@ expected answer
 5->2
 5->2
 8->2
-
-
+-**************************************
 09/18/21
 while loop
 while-else-break-conitnue-pass
@@ -53,7 +52,7 @@ find,count,split function
 upper,lower,swap,title cases
 islower/upper/alphnum/num/alpha functions
 append/pop/insert/extend(unpack the list and add to the list)
-
+-**************************************
 09/19/21
 tuples
 sets
@@ -61,22 +60,21 @@ dictionary
 value can be of any type tuple,list,strings etc
 keys cannot be special characters,list,set but can be tuples,"_"can be used because it is like a placeholder
 keys cannot be duplicated it will only hold a unique value
-
+-**************************************
 9/24/21
 feedback session
-
+-**************************************
 9/25/21
 functions
 adding docstrings to a new function
 args and kwargs
-
-
+-**************************************
 10/3/21
 error and exception handeling
 raising or making an excception
-
+-**************************************
 new workfile_2
-
+-**************************************
 10/9/21
 Pandas
 reading file and loading into dataframe
@@ -84,22 +82,20 @@ reading file and loading into dataframe
 -excel
 -html
 saving into a csv
-
+-**************************************
 10/10/21
 Pandas
 sort data types
 iloc & loc 
 add & drop columns and rows
-
 how to read :
 -word
 -parque
 -pdf
-
-
+-**************************************
 10/23/21
 installations
-
+-**************************************
 10/24/21
 mongodb cloud cluster forming
 installing poymongo librar(filename: mongodb trial)
@@ -109,12 +105,12 @@ create collections
 create document and multiple document
 finding details in document
 apply filter to the document
-
+-**************************************
 10/30/21
 connecting pyhton to mysql
 loading data
 deleting ,reading dataset
-
+-**************************************
 10/31/21
 pandas 
 concatination
@@ -122,17 +118,30 @@ merge
 join
 lambda function
 map,reduce,filter
-
+-**************************************
 11/6/21
 numpy
+-**************************************
 11/6/21
 oops introduction
-
+-**************************************
 11/7/21
 canclled
-
+-**************************************
 11/13/21
 oops
 d.c = public Variables
 d.__b = private Variables
 d._a = protected variables
+-**************************************
+11/20/21
+plotting libraries
+ML data:
+   1-collect
+   2-analysis
+      matplotlib
+      seaborn
+      cuffling
+      plotly
+      bokeh
+      
