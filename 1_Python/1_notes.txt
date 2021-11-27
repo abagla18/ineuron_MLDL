@@ -142,9 +142,10 @@ ML data:
       matplotlib
 11/21/21
       seaborn
-
-
+11/27/21
+      plotly
       cuffling
+
       plotly
       bokeh
       
