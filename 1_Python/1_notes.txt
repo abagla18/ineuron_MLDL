@@ -167,5 +167,9 @@ review scrapper
 1/16/22
  machine learning introduction
 
- 
  -**************************************
+1/22/22
+ Linear algebra and linear regression
+
+ -**************************************
+ 
